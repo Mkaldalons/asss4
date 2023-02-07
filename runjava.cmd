@@ -1,1 +1,1 @@
-java -cp target\App-1.0-SNAPSHOT.jar is.hi.mrk9.hbv202g.ass4.App
+java -cp target\ass4-1.0-SNAPSHOT-tests.jar is.hi.mrk9.hbv202g.ass4.App
